@@ -19,9 +19,11 @@ UptiHub is a lightweight [website monitoring](https://en.wikipedia.org/wiki/Webs
 
 # Competitors
 - Pingdom
-- UptimeRobot
+- UptimeRobot *
 - Site24x7
-- StatusCake
-- New Relic
-- Datadog
+- StatusCake *
+- New Relic *
+- Datadog *
 - Nagios
+
+* Free account available
