@@ -26,4 +26,4 @@ UptiHub is a lightweight [website monitoring](https://en.wikipedia.org/wiki/Webs
 - Datadog *
 - Nagios
 
-* Free account available
+\* Free account available
