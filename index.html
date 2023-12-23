@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Uptime Monitor</title>
+    
+    <link rel="stylesheet" href="style.css">
+        
+</head>
+
+<body>
+    <div class="container">
+        <label for="websiteUrl">Website URL:</label>
+        <input type="text" id="websiteUrl" placeholder="Enter website URL" value="http://127.0.0.1:5501">
+        <div>
+            <label for="duration">Enter Duration (minutes):</label>
+            <input type="text" id="duration" placeholder="Enter duration in minutes" value="5">
+        </div>
+        <div>
+            <label for="interval">Enter Interval (milliseconds):</label>
+            <input type="text" id="interval" placeholder="Enter interval in milliseconds" value="1000">
+        </div>
+        <div>
+            <label for="startTime">Start Time:</label>
+            <input type="datetime-local" id="startTime">
+        </div>        
+        <div>
+            <button id="toggleButton" onclick="toggleMonitoring()">Start Monitoring</button>
+        </div>
+
+        <div id="status"></div>
+        <canvas id="uptimeChart"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/moment"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-moment"></script>
+        
+    <script src="index.js"></script>
+</body>
+
+</html>
