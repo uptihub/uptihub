@@ -7,12 +7,12 @@ UptiHub is a lightweight [website monitoring](https://en.wikipedia.org/wiki/Webs
 
 # Initial Tech Stack
 - Backend: Node.js with Express
-- Database: SQLite
+- Database: SQLite, Files
 - Frontend: React with Create React App
 - Monitoring and Alerting: Basic logging within the application
-- Server and Deployment: Heroku
+- Server and Deployment: Server (DigitalOcean?!)
 - Authentication: Passport.js for Node.js
-- Frontend Styling: Tailwind CSS
+- Frontend Styling: MUI components, Tailwind CSS
 - Version Control: Git (GitHub)
 - Continuous Integration (CI): GitHub Actions
 - Documentation: Minimal documentation using Markdown
