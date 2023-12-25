@@ -2,7 +2,6 @@
 UptiHub is a lightweight [website monitoring](https://en.wikipedia.org/wiki/Website_monitoring) platform designed for quick setup and ease of use.
 
 # Roadmap
-
 - [ ] just create the bloody MVP! :tada:
 
 # Initial Tech Stack
@@ -16,6 +15,11 @@ UptiHub is a lightweight [website monitoring](https://en.wikipedia.org/wiki/Webs
 - Version Control: Git (GitHub)
 - Continuous Integration (CI): GitHub Actions
 - Documentation: Minimal documentation using Markdown
+
+# Libraries to check
+## Scheduler
+- [agenda](https://github.com/agenda/agenda?tab=readme-ov-file) (MongoDB)
+- [bull](https://github.com/OptimalBits/bull) (Redis)
 
 # Competitors
 - Pingdom
