@@ -29,6 +29,11 @@ UptiHub is a lightweight [website monitoring](https://en.wikipedia.org/wiki/Webs
 ## State Management
 - [ ] [React Context API](https://react.dev/learn/passing-data-deeply-with-context) (built-in)
 - [ ] [redux](https://github.com/reduxjs/redux)
+## HTTP Client
+- [ ] [axios](https://github.com/axios/axios)
+## Testing
+- [ ] [react-testing-library](https://github.com/testing-library/react-testing-library)
+- [ ] [jest](https://github.com/jestjs/jest)
 
 # Competitors
 - Pingdom
