@@ -34,6 +34,12 @@ UptiHub is a lightweight [website monitoring](https://en.wikipedia.org/wiki/Webs
 ## Testing
 - [ ] [react-testing-library](https://github.com/testing-library/react-testing-library)
 - [ ] [jest](https://github.com/jestjs/jest)
+## Module Bundler
+- [ ] [create-react-app](https://github.com/facebook/create-react-app) (multipurpose)
+- [ ] [webpack](https://github.com/webpack/webpack)
+- [ ] [vite](https://github.com/vitejs/vite)
+- [ ] [parcel](https://github.com/parcel-bundler/parcel)
+- [ ] [rollup](https://github.com/rollup/rollup)
 
 # Competitors
 - Pingdom
