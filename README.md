@@ -24,6 +24,11 @@ UptiHub is a lightweight [website monitoring](https://en.wikipedia.org/wiki/Webs
 - [ ] [bee-queue](https://github.com/bee-queue/bee-queue) (Redis)
 ## ORM
 - [ ] [sequelize](https://github.com/sequelize/sequelize)
+## Authentication
+- [ ] [passport](https://github.com/jaredhanson/passport)
+## State Management
+- [ ] [React Context API](https://react.dev/learn/passing-data-deeply-with-context) (built-in)
+- [ ] [redux](https://github.com/reduxjs/redux)
 
 # Competitors
 - Pingdom
