@@ -18,10 +18,12 @@ UptiHub is a lightweight [website monitoring](https://en.wikipedia.org/wiki/Webs
 
 # Libraries to check
 ## Scheduler
-- [bull](https://github.com/OptimalBits/bull) (Redis)
-- [agenda](https://github.com/agenda/agenda?tab=readme-ov-file) (MongoDB)
-- [kue](https://github.com/Automattic/kue) (Redis)
-- [bee-queue](https://github.com/bee-queue/bee-queue) (Redis)
+- [ ] [bull](https://github.com/OptimalBits/bull) (Redis)
+- [ ] [agenda](https://github.com/agenda/agenda?tab=readme-ov-file) (MongoDB)
+- [ ] [kue](https://github.com/Automattic/kue) (Redis)
+- [ ] [bee-queue](https://github.com/bee-queue/bee-queue) (Redis)
+## ORM
+- [ ] [sequelize](https://github.com/sequelize/sequelize)
 
 # Competitors
 - Pingdom
