@@ -5,11 +5,10 @@ UptiHub is a lightweight [website monitoring](https://en.wikipedia.org/wiki/Webs
 - [ ] just create the bloody MVP! :tada:
 
 # Initial Tech Stack
-- Backend: Node.js with Express
+- Full-stack (React): [Next.js](https://nextjs.org/) (App Router, ESLint, TailWind and import alias is enabled)
 - Database: SQLite, Files
-- Frontend: React with Create React App
 - Monitoring and Alerting: Basic logging within the application
-- Server and Deployment: Server (DigitalOcean?!)
+- Server and Deployment: Server (DigitalOcean?!) or [Vercel](https://vercel.com/) (for MVP)
 - Authentication: Passport.js for Node.js
 - Frontend Styling: MUI components, Tailwind CSS
 - Version Control: Git (GitHub)
